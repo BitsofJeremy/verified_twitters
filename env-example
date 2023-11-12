@@ -1,0 +1,6 @@
+# Twitter Oauth keys
+export CONSUMER_KEY='YOUR_KEY'
+export CONSUMER_SECRET='YOUR_KEY'
+export OAUTH_TOKEN='YOUR_KEY'
+export OAUTH_TOKEN_SECRET='YOUR_KEY'
+export BEARER_TOKEN='YOUR_KEY'
